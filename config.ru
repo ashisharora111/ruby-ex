@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OCP deployed for IBM GTS Demo by Ashish Arora </h1>
+            <h1>Welcome to your Ruby application on OCP deployed for IBM GTS Demo by Ashish Arora and Ravi Sharma </h1>
           </hgroup>
 
 
