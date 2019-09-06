@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome Bart to IBM GTS Demo by Ashish Arora and Ravi Sharma </h1>
+            <h1>Welcome Bart to IBM GTS Demo by Ashish Arora and Ravi Sharma @ Bangalore </h1>
           </hgroup>
 
 
