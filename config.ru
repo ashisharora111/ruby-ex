@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to IBM GTS Openshift Demo by Ravi and Ashish </h1>
+            <h1>Welcome to IBM GTS Openshift Demo </h1>
           </hgroup>
 
 
